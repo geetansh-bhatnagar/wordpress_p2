@@ -1,0 +1,648 @@
+# Translation of Themes - Twenty Twenty in Gujarati
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-19 14:01:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: gu\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr "અમારી નવી થીમ 2020 એ નવા ગુટનબર્ગ બ્લોક એડીટર(પેજ બિલ્ડર) ની પરિવર્તનક્ષમતાનો સંપૂર્ણ લાભ લેવા માટે બનાવવામાં આવી છે. સંસ્થાઓ અને વ્યવસાયો પાસે જૂથ (ગ્રુપ) અને કોલમ  બ્લોક્સનો ઉપયોગ કરીને અનંત લેઆઉટ સાથે ગતિશીલ ઉતરાણ પૃષ્ઠો (ડાયનામિક લેન્ડિંગ પેજ) બનાવવાની ક્ષમતા છે. કેન્દ્રિત સામગ્રી કોલમ અને ફાઇન ટ્યુન ટાઇપોગ્રાફી પણ તેને પરંપરાગત બ્લોગ્સ માટે યોગ્ય બનાવે છે. સંપૂર્ણ સંપાદક શૈલીઓ તમને પ્રકાશિત કરે તે પહેલાં જ, તમારી સામગ્રી (વેબસાઈટ) કેવી દેખાશે તેનો સારો ખ્યાલ આપે છે. તમે કસ્ટમાઇઝરમાં બેકગ્રાઉન્ડ રંગો અને એક્સેન્ટ રંગ બદલીને તમારી સાઇટને વ્યક્તિગત (બ્રાન્ડ) સ્પર્શ આપી શકો છો. તમારી સાઇટ પરના બધા તત્વોના રંગો તમે પસંદ કરેલા રંગોના આધારે આપમેળે ગણવામાં આવે છે, તમારા મુલાકાતીઓ માટે ઉચ્ચ, સુલભ રંગ વિપરીતતાની ખાતરી આપે છે."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Twenty"
+msgstr "ટ્વેન્ટી ટ્વેન્ટી"
+
+#: classes/class-twentytwenty-customize.php:131
+msgctxt "color"
+msgid "Custom"
+msgstr "કસ્ટમ"
+
+#: classes/class-twentytwenty-customize.php:130
+msgctxt "color"
+msgid "Default"
+msgstr "મૂળભૂત"
+
+#: inc/block-patterns.php:197
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political, and philosophical issues are intrinsic to our program. As visitor, you are invited to guided tours artist talks, lectures, film screenings, and other events with free admission."
+msgstr "આકર્ષક આર્કિટેક્ચરના સાત માળ સાથે, યુએમઓએમએ આંતરરાષ્ટ્રીય સમકાલીન કલાના પ્રદર્શનો દર્શાવે છે, કેટલીકવાર કલા ઐતિહાસિક પૂર્વદર્શન સાથે. અસ્તિત્વ સંબંધી, રાજકીય અને દાર્શનિક મુદ્દાઓ અમારા કાર્યક્રમમાં આંતરિક છે. મુલાકાતી તરીકે, તમને માર્ગદર્શિત પ્રવાસ કલાકારોની વાર્તાલાપ, પ્રવચનો, ફિલ્મ સ્ક્રિનિંગ અને મફત પ્રવેશ સાથે અન્ય કાર્યક્રમો માટે આમંત્રિત કરવામાં આવે છે."
+
+#: inc/block-patterns.php:194
+msgid "The Premier Destination for Modern Art in Sweden"
+msgstr "સ્વીડનમાં આધુનિક કલા માટેનું પ્રીમિયર ડેસ્ટિનેશન"
+
+#: inc/block-patterns.php:187
+msgid "Introduction"
+msgstr "પરિચય"
+
+#: inc/block-patterns.php:157 inc/block-patterns.php:171
+msgid "August 1 — December 1"
+msgstr "ઓગસ્ટ 1 - ડિસેમ્બર 1"
+
+#: inc/block-patterns.php:151 inc/block-patterns.php:165
+msgid "Abstract Rectangles"
+msgstr "અમૂર્ત લંબચોરસ"
+
+#: inc/block-patterns.php:142
+msgid "Featured Content"
+msgstr "ફીચર્ડ સામગ્રી"
+
+#: inc/block-patterns.php:128
+msgid "<em>Price</em><br>Included"
+msgstr "<em>કિંમત</em><br>શામેલ"
+
+#: inc/block-patterns.php:123
+msgid "<em>Location</em><br>Exhibit Hall B"
+msgstr "<em>સ્થાન</em><br>પ્રદર્શન હોલ B"
+
+#: inc/block-patterns.php:118
+msgid "<em>Dates</em><br>Aug 1 — Dec 1"
+msgstr "<em>તારીખ</em><br>ઓગસ્ટ 1 - ડિસેમ્બર 1"
+
+#: inc/block-patterns.php:108
+msgid "Event Details"
+msgstr "ઇવેન્ટ વિગતો"
+
+#: inc/block-patterns.php:93
+msgid "Shop Now"
+msgstr "હવે ખરીદી કરો"
+
+#: inc/block-patterns.php:89
+msgid "An awe-inspiring collection of books, prints, and gifts from our exhibitions."
+msgstr "અમારા પ્રદર્શનોમાંથી પુસ્તકો, પ્રિન્ટ્સ અને ભેટોનો વિસ્મયકારક સંગ્રહ."
+
+#: inc/block-patterns.php:86
+msgid "The Store"
+msgstr "દુકાન"
+
+#: inc/block-patterns.php:74
+msgid "Award-winning exhibitions featuring internationally-renowned artists."
+msgstr "આંતરરાષ્ટ્રીય ખ્યાતિપ્રાપ્ત કલાકારો દર્શાવતા એવોર્ડ વિજેતા પ્રદર્શનો."
+
+#: inc/block-patterns.php:71
+msgid "The Museum"
+msgstr "મ્યુઝિયમ"
+
+#: inc/block-patterns.php:61
+msgid "Double Call to Action"
+msgstr "ડબલ કૉલ ટુ એક્શન"
+
+#: inc/block-patterns.php:48
+msgid "Become a Member"
+msgstr "સભ્ય બનો"
+
+#: inc/block-patterns.php:42
+msgid "Support the Museum and Get Exclusive Offers"
+msgstr "મ્યુઝિયમને સપોર્ટ કરો અને વિશિષ્ટ ઑફર્સ મેળવો"
+
+#: inc/block-patterns.php:33
+msgid "Call to Action"
+msgstr "કાર્ય માટે બોલાવો"
+
+#: template-parts/modal-menu.php:73
+msgctxt "menu"
+msgid "Mobile"
+msgstr "મોબાઈલ"
+
+#: template-parts/modal-menu.php:48
+msgctxt "menu"
+msgid "Expanded"
+msgstr "વિસ્તૃત"
+
+#: header.php:88
+msgctxt "menu"
+msgid "Horizontal"
+msgstr "આડું"
+
+#: header.php:53 header.php:157
+msgctxt "toggle text"
+msgid "Search"
+msgstr "શોધો"
+
+#: functions.php:526
+msgctxt "color"
+msgid "Secondary"
+msgstr "ગૌણ"
+
+#: functions.php:521
+msgctxt "color"
+msgid "Primary"
+msgstr "પ્રાથમિક"
+
+#: index.php:51
+msgid "Nothing Found"
+msgstr "કંઈ મળ્યું નથી"
+
+#: classes/class-twentytwenty-customize.php:251
+msgid "Show author bio"
+msgstr "લેખક નો બાયો બતાવો"
+
+#: template-parts/entry-author-bio.php:30
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "આર્કાઇવ જુઓ <span aria-hidden=\"true\">&rarr;</span>"
+
+#: inc/starter-content.php:39
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "નવું સંગ્રહાલય યૂમોમા (UMoMA) તેના દરવાજા ખોલે છે"
+
+#: inc/template-tags.php:414
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "અંદર"
+
+#: inc/starter-content.php:151
+msgid "Join the Club"
+msgstr "મંડળમાં જોડાવ"
+
+#: inc/block-patterns.php:45 inc/starter-content.php:148
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "સભ્યોને વિશિષ્ટ પ્રદર્શનો અને વેચાણનો લાભ મળે છે. અમારી સભ્યપદની કિંમત $99.99 છે અને વાર્ષિક બિલ લેવામાં આવે છે."
+
+#: inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "સભ્ય બનો અને વિશિષ્ટ ઓફર મેળવો!"
+
+#: inc/starter-content.php:137
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "આ પ્રદર્શનો યુએમઓએમએ દ્વારા વિશ્વભરના કલાકારો અને સંગ્રહાલયોના સહયોગથી બનાવવામાં આવે છે અને તેઓ ઘણીવાર આંતરરાષ્ટ્રીય ધ્યાન આકર્ષિત કરે છે. યુએમઓએમએને યૂરોપિયન મ્યુઝિયમ ઓફ ધ યર તરફથી વિશેષ પ્રશંસા મળી છે, અને સ્વીડિશ મ્યુઝિયમ ઓફ ધ યર એવોર્ડ તેમજ કાઉન્સિલ  ઓફ યુરોપ મ્યુઝિયમ પ્રાઈઝ માટેના ટોચના ઉમેદવારોમાંનો સમાવેશ થતો હતો."
+
+#: inc/starter-content.php:134
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "આકસ્મિક સ્થાપત્યના સાત માળ સાથે, યુએમઓએમએ આંતરરાષ્ટ્રીય સમકાલીન કલાના પ્રદર્શનો બતાવે છે, કેટલીકવાર કળાના ઐતિહાસિક ભૂતકાળની સાથે. અસ્તિત્વમાં રહેલા, રાજકીય અને દાર્શનિક મુદ્દાઓ આપણા પ્રોગ્રામ માટે આંતરિક છે. મુલાકાતી તરીકે તમને માર્ગદર્શિત પ્રવાસો કલાકાર મંત્રણા, પ્રવચનો, ફિલ્મ સ્ક્રિનીંગ અને નિ: શુલ્ક પ્રવેશ સાથેના અન્ય કાર્યક્રમો માટે આમંત્રિત કર્યા છે"
+
+#: inc/starter-content.php:130
+msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
+msgstr "\"સાયબોર્ગ્સ, જેમ કે ફિલોસોફર ડોના હાર્વેની સ્થાપના કરી હતી, તે આદરણીય નથી. તેમને બ્રહ્માંડ યાદ નથી. ”"
+
+#: inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr "સિગ્નેકથી મેટિસે"
+
+#: inc/block-patterns.php:168 inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr "મને જીવવા લાયક "
+
+#: inc/starter-content.php:85 inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr "ઓક્ટોબર 1 - ડિસેમ્બર 1"
+
+#: inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr "ઓપરેશન થિયેટર"
+
+#: inc/block-patterns.php:78 inc/block-patterns.php:160
+#: inc/block-patterns.php:174 inc/starter-content.php:73
+#: inc/starter-content.php:88 inc/starter-content.php:105
+#: inc/starter-content.php:120
+msgid "Read More"
+msgstr "વધુ વાંચો"
+
+#: inc/starter-content.php:70 inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr "ઓગસ્ટ 1 -- ડિસેમ્બર 1"
+
+#: inc/block-patterns.php:154 inc/starter-content.php:67
+msgid "Works and Days"
+msgstr "કામો અને દિવસો"
+
+#: inc/starter-content.php:56
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "ઉત્તરીય સ્વીડનમાં આધુનિક કળા માટેનું મુખ્ય સ્થળ. ઉનાળાના મહિના દરમિયાન દરરોજ સવારે 10 થી સાંજના 6 વાગ્યા સુધી ખુલ્લું રહે છે."
+
+#: inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr "નવું યુએમઓએમએ તેના દરવાજા ખોલે છે"
+
+#: classes/class-twentytwenty-customize.php:400
+msgid "Overlay Opacity"
+msgstr "અસ્પષ્ટતા (ઓપાસિટી) ઓવરલે"
+
+#: classes/class-twentytwenty-customize.php:380
+msgid "The color used for the text in the overlay."
+msgstr "ઓવરલેના લખાણ (ટેક્સ્ટ) માટે વપરાયેલ રંગ."
+
+#: classes/class-twentytwenty-customize.php:379
+msgid "Overlay Text Color"
+msgstr "ઓવરલે લખાણ (ટેક્સ્ટ) કલર"
+
+#: classes/class-twentytwenty-customize.php:358
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "ઓવરલે માટે વપરાયેલ રંગ. ઉચ્ચાર રંગ માટે મૂળભૂત (ડિફોલ્ટ)."
+
+#: classes/class-twentytwenty-customize.php:357
+msgid "Overlay Background Color"
+msgstr "ઓવરલે પૃષ્ઠભૂમિ (બેકગ્રાઉન્ડ) રંગ"
+
+#: classes/class-twentytwenty-customize.php:288
+msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
+msgstr "\"કવર ટેમ્પલેટ\" પૃષ્ઠ નમૂના માટે સેટિંગ્સ. પૃષ્ઠભૂમિ (બેકગ્રાઉન્ડ) તરીકે વાપરવા માટે એક ફીચર્ડ ચિત્ર  ઉમેરો."
+
+#: classes/class-twentytwenty-customize.php:188
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "લિંક્સ, બટનો, ફીચર્ડ ચિત્રો માટે કસ્ટમ રંગ લાગુ કરો. "
+
+#: classes/class-twentytwenty-customize.php:128
+msgid "Primary Color"
+msgstr "પ્રાથમિક રંગ"
+
+#: searchform.php:28 template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr "માટે શોધ:"
+
+#: index.php:101
+msgid "search again"
+msgstr "ફરીથી શોધો"
+
+#. translators: %s: Number of search results.
+#: index.php:39
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "અમને તમારી શોધ માટે %s પરિણામ મળ્યું."
+msgstr[1] "અમને તમારી શોધ માટે %s પરિણામો મળ્યું."
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:55
+msgid "Up %s"
+msgstr "ઉપર %s"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:49
+msgid "To the top %s"
+msgstr "ટોચ પર %s"
+
+#. translators: Copyright date format, see
+#. https://www.php.net/manual/datetime.format.php
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "વર્ષ"
+
+#: 404.php:24
+msgid "404 not found"
+msgstr "404 નથી મળતું"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "સંપૂર્ણ પહોળાઈનું ટેમ્પ્લેટ "
+
+#. Translators: This text contains HTML to allow the text to be shorter on
+#. small screens. The text inside the span with the class nav-short will be
+#. hidden on small screens.
+#: template-parts/pagination.php:27
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "જૂનું <span class=\"nav-short\">પોસ્ટ્સ</span>"
+
+#. Translators: This text contains HTML to allow the text to be shorter on
+#. small screens. The text inside the span with the class nav-short will be
+#. hidden on small screens.
+#: template-parts/pagination.php:19
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "નવી <span class=\"nav-short\">પોસ્ટ્સ</span>"
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr "પોસ્ટ"
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "નજીકની શોધ"
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "વિસ્તૃત સામાજિક લિંક્સ"
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "બંધ મેનુ"
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "સામાજિક લિંક્સ"
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "તળિયું (ફૂટર)"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:375 template-parts/entry-author-bio.php:21
+msgid "By %s"
+msgstr "%s દ્વારા"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Pages:"
+msgstr "પેજિસ:"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Page"
+msgstr "પૃષ્ઠ (પેજ) "
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "નીચે સરકાવો"
+
+#: searchform.php:31
+msgctxt "submit button"
+msgid "Search"
+msgstr "શોધો"
+
+#: searchform.php:29
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "શોધો &hellip;"
+
+#: index.php:48
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "અમે તમારી શોધ માટે કોઈ પરિણામ શોધી શક્યા નથી. તમે તેને નીચે આપેલા શોધ ફોર્મ દ્વારા ફરીથી અજમાવી શકો છો."
+
+#: index.php:32
+msgid "Search:"
+msgstr "શોધો:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:223
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span> ને સંપાદિત કરો"
+
+#: inc/template-tags.php:466
+msgid "Sticky post"
+msgstr "સ્ટીકી પોસ્ટ"
+
+#: inc/template-tags.php:428
+msgid "Tags"
+msgstr "ટૅગ્સ"
+
+#: inc/template-tags.php:410 template-parts/content-cover.php:70
+#: template-parts/entry-header.php:36
+msgid "Categories"
+msgstr "કેટેગરી"
+
+#: inc/template-tags.php:392
+msgid "Post date"
+msgstr "પોસ્ટ તારીખ"
+
+#: inc/template-tags.php:368
+msgid "Post author"
+msgstr "પોસ્ટ લેખક"
+
+#: inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "સામાજિક લિંક્સ નુ મેનુ"
+
+#: inc/starter-content.php:177 inc/starter-content.php:187
+msgid "Primary"
+msgstr "પ્રાથમિક"
+
+#: header.php:76 header.php:137
+msgid "Menu"
+msgstr "મેનૂ"
+
+#: template-parts/modal-search.php:11
+msgid "Search"
+msgstr "શોધો"
+
+#: template-parts/content.php:36
+msgid "Continue reading"
+msgstr "વાંચન ચાલુ રાખો"
+
+#: functions.php:578
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "એક્સએલ"
+
+#: functions.php:577
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "મોટા"
+
+#: functions.php:572
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "એલ"
+
+#: functions.php:571
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "મોટું"
+
+#: functions.php:566
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "એમ"
+
+#: functions.php:565
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "નિયમિત"
+
+#: functions.php:560
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "એસ"
+
+#: functions.php:559
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "નાનું"
+
+#: functions.php:544
+msgid "Background Color"
+msgstr "પૃષ્ઠભૂમિ રંગ"
+
+#: functions.php:531
+msgid "Subtle Background"
+msgstr "વૈવિધ્યપૂર્ણ પૃષ્ઠભૂમિ"
+
+#: functions.php:516
+msgid "Accent Color"
+msgstr "એક્સેન્ટ રંગ"
+
+#: functions.php:403
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "ફૂટરની બીજી કોલમમાં આ ક્ષેત્રમાં વિજેટો પ્રદર્શિત થશે."
+
+#: functions.php:401
+msgid "Footer #2"
+msgstr "ફૂટર #2"
+
+#: functions.php:391
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "ફૂટરની પ્રથમ કોલમમાં આ ક્ષેત્રમાં વિજેટો પ્રદર્શિત થશે."
+
+#: functions.php:389
+msgid "Footer #1"
+msgstr "ફૂટર #1"
+
+#: functions.php:362
+msgid "Skip to the content"
+msgstr "સામગ્રી પર જાઓ "
+
+#: functions.php:277
+msgid "Social Menu"
+msgstr "સામાજિક મેનુ"
+
+#: functions.php:276
+msgid "Footer Menu"
+msgstr "ફૂટર મેનુ"
+
+#: functions.php:275
+msgid "Mobile Menu"
+msgstr "મોબાઇલ મેનુ"
+
+#: functions.php:274
+msgid "Desktop Expanded Menu"
+msgstr "ડેસ્કટોપ વિસ્તૃત મેનુ "
+
+#: functions.php:273
+msgid "Desktop Horizontal Menu"
+msgstr "ડેસ્કટોપ આડું મેનુ"
+
+#: footer.php:39
+msgid "Powered by WordPress"
+msgstr "વર્ડપ્રેસ દ્વારા સંચાલિત"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "ટિપ્પણીઓ બંધ છે."
+
+#: comments.php:88
+msgid "Comments"
+msgstr "ટિપ્પણીઓ"
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr "જૂની ટિપ્પણીઓ"
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr "નવી ટિપ્પણીઓ"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; પર %1$s જવાબ"
+msgstr[1] "&ldquo;%2$s&rdquo; પર %1$s જવાબો"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; પર એક જવાબ"
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "ટિપ્પણી મૂકો"
+
+#: classes/class-twentytwenty-walker-page.php:115 inc/template-tags.php:580
+msgid "Show sub menu"
+msgstr "સબ મેનુ બતાવો"
+
+#. translators: %d: ID of a post.
+#: classes/class-twentytwenty-walker-page.php:78
+msgid "#%d (no title)"
+msgstr "#%d (કોઈ શીર્ષક નથી)"
+
+#: classes/class-twentytwenty-walker-comment.php:137
+msgid "By Post Author"
+msgstr "પોસ્ટ લેખક દ્વારા"
+
+#: classes/class-twentytwenty-walker-comment.php:102
+msgid "Your comment is awaiting moderation."
+msgstr "તમારી ટિપ્પણી સ્વીકૃતિ માટે રાહ જોઈ રહી છે."
+
+#: classes/class-twentytwenty-walker-comment.php:86
+msgid "Edit"
+msgstr "સંપાદિત કરો"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:72
+msgid "%1$s at %2$s"
+msgstr "%1$s પર %2$s"
+
+#: classes/class-twentytwenty-walker-comment.php:60
+msgid "says:"
+msgstr "કહે છે:"
+
+#: classes/class-twentytwenty-customize.php:401
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "ખાતરી કરો કે વિરોધાભાસ પૂરતો ઉચ્ચ છે જેથી લખાણ વાંચી શકાય."
+
+#: classes/class-twentytwenty-customize.php:311
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "મુલાકાતી સ્ક્રોલ થાય ત્યારે લંબન અસર બનાવે છે"
+
+#: classes/class-twentytwenty-customize.php:310
+msgid "Fixed Background Image"
+msgstr "સ્થિર પૃષ્ઠભૂમિ ચિત્ર"
+
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:286
+msgid "Cover Template"
+msgstr "કવર ટેમ્પલેટ"
+
+#: classes/class-twentytwenty-customize.php:275
+msgid "Summary"
+msgstr "સારાંશ"
+
+#: classes/class-twentytwenty-customize.php:274
+msgid "Full text"
+msgstr "સંપૂર્ણ લખાણ"
+
+#: classes/class-twentytwenty-customize.php:272
+msgid "On archive pages, posts show:"
+msgstr "આર્કાઇવ પૃષ્ઠો પર, પોસ્ટ્સ બતાવે છે:"
+
+#: classes/class-twentytwenty-customize.php:230
+msgid "Show search in header"
+msgstr "હેડરમાં શોધ બતાવો"
+
+#: classes/class-twentytwenty-customize.php:207
+msgid "Theme Options"
+msgstr "થીમ વિકલ્પો"
+
+#: classes/class-twentytwenty-customize.php:106
+msgid "Header &amp; Footer Background Color"
+msgstr "હેડર &amp; ફૂટર પૃષ્ઠભૂમિ રંગ"
+
+#: classes/class-twentytwenty-customize.php:87
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "લોગો તેના કદના અડધા અપલોડ કરે છે, તેને ઉચ્ચ રિઝર્વેશન સ્ક્રીનો પર તીવ્ર બનાવે છે."
+
+#: classes/class-twentytwenty-customize.php:86
+msgid "Retina logo"
+msgstr "રેટિના લોગો"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "તમે શોધી રહ્યાં હતાં તે પૃષ્ઠ શોધી શકાયું નથી. તે કદાચ દૂર કરવામાં આવ્યું હશે, નામ બદલ્યું હશે, અથવા અસ્તિત્વમાં ન હતું."
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "પેજ મળ્યું નથી"
+
+#. Author URI of the theme
+#: footer.php:38
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "વર્ડપ્રેસ ટીમ"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr "https://wordpress.org/themes/twentytwenty/"
