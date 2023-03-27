@@ -11,5 +11,11 @@ Updated: 2023-03-24 07:29:51
 
 */
 body{
-    background-color: red;
+    background-color: #e8e2e2;
+}
+#header [data-row] {
+    background-color: #c3acd0;
+}
+[data-footer*="type-1"] footer.ct-footer {
+    background-color: #c3acd0;
 }
